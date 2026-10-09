@@ -1,0 +1,20 @@
+[
+  {"name":"Pune Airport","type":"airport","lat":18.5822,"lng":73.9197},
+  {"name":"Pune Junction","type":"railway","lat":18.5286,"lng":73.8743},
+  {"name":"Shivajinagar Station","type":"railway","lat":18.5308,"lng":73.8475},
+  {"name":"Hadapsar Station","type":"railway","lat":18.5018,"lng":73.9298},
+  {"name":"Civil Court Metro","type":"metro","lat":18.5236,"lng":73.8558},
+  {"name":"Mandai Metro","type":"metro","lat":18.5126,"lng":73.8564},
+  {"name":"Deccan Gymkhana Metro","type":"metro","lat":18.5179,"lng":73.8417},
+  {"name":"Vanaz Metro","type":"metro","lat":18.5074,"lng":73.8078},
+  {"name":"PCMC Metro","type":"metro","lat":18.6280,"lng":73.8002},
+  {"name":"Swargate Metro","type":"metro","lat":18.5018,"lng":73.8585},
+  {"name":"Shivajinagar Bus Stand","type":"bus","lat":18.5304,"lng":73.8472},
+  {"name":"Swargate Bus Stand","type":"bus","lat":18.5012,"lng":73.8580},
+  {"name":"Pune Station Bus Stop","type":"bus","lat":18.5292,"lng":73.8737},
+  {"name":"Kothrud Depot","type":"bus","lat":18.5070,"lng":73.8070},
+  {"name":"Katraj Bus Stop","type":"bus","lat":18.4524,"lng":73.8662},
+  {"name":"Wagholi Bus Stop","type":"bus","lat":18.5796,"lng":73.9781},
+  {"name":"Hinjawadi Bus Stop","type":"bus","lat":18.5912,"lng":73.7389},
+  {"name":"Hadapsar Gadital","type":"bus","lat":18.5005,"lng":73.9397}
+]
